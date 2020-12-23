@@ -1,0 +1,13 @@
+spring:
+#数据库连接配置
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/springboottest?useSSL=false&characterEncoding=utf-8&serverTimezone=Asia/Shanghai
+    username: root
+    password: root
+    #type: com.
+  jpa:
+    database: mysql
+    show-sql: true
+
+

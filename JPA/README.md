@@ -1,0 +1,5 @@
+# springBoot
+springBootQueryBySQL.zip是 基于spring+mybatis(带mapper.xml的)方式实现对数据库的增删改查的demo
+springBootQueryBySQLNoXML.zip是基于spring+mybatis(注解的)方式实现对数据库的增删改查的demo
+springBootQueryBySQLByJPA.zip是基于springBoot的jap实现的对数据库的增删改查的demo
+springBootQueryBySQLByJPAAndJunit.zpi是新增了junit测试demo
